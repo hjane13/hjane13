@@ -1,6 +1,9 @@
 ## I am Hannah Jane Sebastian, a third-year Bachelor of Science in Information Technology student at Central Philippine University. 
 ### 1. I love listening to any genre of music.
-
+### 2. I am inlove with a kpop girl group called BLACKPINK
+### 3. I am a dog and cat lover. 
+### 4. I think that I am a funny person. 
+### 5. I am boring sometimes. 
 
 <!--
 **hjane13/hjane13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
